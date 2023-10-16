@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrMysticus
+- 👋 Hi, I’m @Justus
 - I’m interested in Data Science
 - I’m working at [stadt.werk GmbH](https://stadtwerk.org/) as a working student
 - 📫 justus.heilingbrunner@gmail.com
